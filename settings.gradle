@@ -1,1 +1,1 @@
-include ':app', ':pushdemo', ':servicetest', ':clienttest', ':broadcastreceivertest', ':permissiontest', ':permissiontest2', ':providertest', ':providertest2', ':dbprovider'
+include ':app', ':pushdemo', ':servicetest', ':clienttest', ':broadcastreceivertest', ':permissiontest', ':permissiontest2', ':providertest', ':providertest2', ':dbprovider', ':dbdemo2', ':surfaceviewdemo', ':viewdemo', ':surfaceviewdemo2'

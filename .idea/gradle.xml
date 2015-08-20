@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/broadcastreceivertest" />
             <option value="$PROJECT_DIR$/clienttest" />
+            <option value="$PROJECT_DIR$/dbdemo2" />
             <option value="$PROJECT_DIR$/dbprovider" />
             <option value="$PROJECT_DIR$/permissiontest" />
             <option value="$PROJECT_DIR$/permissiontest2" />
@@ -20,6 +21,9 @@
             <option value="$PROJECT_DIR$/providertest2" />
             <option value="$PROJECT_DIR$/pushdemo" />
             <option value="$PROJECT_DIR$/servicetest" />
+            <option value="$PROJECT_DIR$/surfaceviewdemo" />
+            <option value="$PROJECT_DIR$/surfaceviewdemo2" />
+            <option value="$PROJECT_DIR$/viewdemo" />
           </set>
         </option>
       </GradleProjectSettings>

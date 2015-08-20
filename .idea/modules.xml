@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/broadcastreceivertest/broadcastreceivertest.iml" filepath="$PROJECT_DIR$/broadcastreceivertest/broadcastreceivertest.iml" />
       <module fileurl="file://$PROJECT_DIR$/clienttest/clienttest.iml" filepath="$PROJECT_DIR$/clienttest/clienttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbdemo2/dbdemo2.iml" filepath="$PROJECT_DIR$/dbdemo2/dbdemo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/dbprovider/dbprovider.iml" filepath="$PROJECT_DIR$/dbprovider/dbprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/permissiontest/permissiontest.iml" filepath="$PROJECT_DIR$/permissiontest/permissiontest.iml" />
       <module fileurl="file://$PROJECT_DIR$/permissiontest2/permissiontest2.iml" filepath="$PROJECT_DIR$/permissiontest2/permissiontest2.iml" />
@@ -13,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/providertest2/providertest2.iml" filepath="$PROJECT_DIR$/providertest2/providertest2.iml" />
       <module fileurl="file://$PROJECT_DIR$/pushdemo/pushdemo.iml" filepath="$PROJECT_DIR$/pushdemo/pushdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/servicetest/servicetest.iml" filepath="$PROJECT_DIR$/servicetest/servicetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surfaceviewdemo/surfaceviewdemo.iml" filepath="$PROJECT_DIR$/surfaceviewdemo/surfaceviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surfaceviewdemo2/surfaceviewdemo2.iml" filepath="$PROJECT_DIR$/surfaceviewdemo2/surfaceviewdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewdemo/viewdemo.iml" filepath="$PROJECT_DIR$/viewdemo/viewdemo.iml" />
     </modules>
   </component>
 </project>

@@ -6,6 +6,7 @@ import android.content.ContentValues;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.net.Uri;
+import android.util.Log;
 
 import org.litepal.tablemanager.Connector;
 
@@ -42,18 +43,18 @@ public class MyContentProvider extends ContentProvider {
         Person person = new Person();
         person.setName("孙悟空");
         person.setPhone("11111111111");
-        person.set_id(1);
         person.save();
+        Log.d("TAG","person id is" + person.getId());
         Person person1 = new Person();
         person1.setName("猪八戒");
         person1.setPhone("22222222222");
-        person1.set_id(2);
         person1.save();
+        Log.d("TAG", "person1 id is" + person1.getId());
         Person person2 = new Person();
         person2.setName("唐僧");
         person2.setPhone("0000000000");
-        person2.set_id(3);
         person2.save();
+        Log.d("TAG", "person2 id is" + person2.getId());
     }
     @Override
     public boolean onCreate() {

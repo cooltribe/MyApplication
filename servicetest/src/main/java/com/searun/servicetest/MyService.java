@@ -39,6 +39,7 @@ public class MyService extends Service {
 
         }
     };
+
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
         new Thread(new Runnable() {

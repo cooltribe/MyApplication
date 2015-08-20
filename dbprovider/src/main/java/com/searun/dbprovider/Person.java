@@ -5,17 +5,17 @@ import org.litepal.crud.DataSupport;
 /**
  * Created by 陈玉柱 on 2015/8/14.
  */
-public class Person extends DataSupport{
-    private int _id;
+public class Person extends DataSupport {
+    private int id;
     private String name;
     private String phone;
 
-    public int get_id() {
-        return _id;
+    public int getId() {
+        return id;
     }
 
-    public void set_id(int _id) {
-        this._id = _id;
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getName() {
